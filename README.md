@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @airflowboy
-- 👀 I’m interested in data analystic
-- 🌱 I’m currently learning python and excel for data analysis
-- 💞️ I’m looking to collaborate on data engineering
+- 👀 I’m interested in bit data processing
+- 🌱 I’m currently learning redis and kafka for live in huge data wave
+- 💞️ I’m looking to collaborate on frontend developer
 - 📫 How to reach me "ajtwoddl9194@gmail.com" or "01046649194"
 
 <!---
