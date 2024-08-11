@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @airflowboy
-- 👀 I’m interested in bit data processing
-- 🌱 I’m currently learning redis and kafka for live in huge data wave
-- 💞️ I’m looking to collaborate on frontend developer
+- 👀 I’m interested in blockChain System
+- 🌱 I’m currently learning golang and solidity
+- 💞️ I’m looking to working on blockChain company
 - 📫 How to reach me "ajtwoddl9194@gmail.com" or "01046649194"
 
 <!---
