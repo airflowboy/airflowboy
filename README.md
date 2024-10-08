@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @airflowboy
-- 👀 I’m interested in blockChain System
-- 🌱 I’m currently learning golang and solidity
-- 💞️ I’m looking to working on blockChain company
+- 👀 I’m interested in Spring framework
+- 🌱 I’m currently learning spring and kotlin
+- 💞️ I’m looking to working on java/spring company
 - 📫 How to reach me "ajtwoddl9194@gmail.com" or "01046649194"
 
 <!---
