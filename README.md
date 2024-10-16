@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @airflowboy
 - 👀 I’m interested in Spring framework
-- 🌱 I’m currently learning spring and kotlin
-- 💞️ I’m looking to working on java/spring company
-- 📫 How to reach me "ajtwoddl9194@gmail.com" or "01046649194"
+- 🌱 I’m currently learning kafka and redis
+- 💞️ I’m looking to working on fin-tech company
+- 📫 How to reach me "ajtwoddl9194@gmail.com" or "010-4664-9194"
 
 <!---
 airflowboy/airflowboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
