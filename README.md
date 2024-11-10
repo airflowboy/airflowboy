@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @airflowboy
-- 👀 I’m interested in Spring framework
-- 🌱 I’m currently learning kafka and redis
-- 💞️ I’m looking to working on fin-tech company
+- 👀 I’m interested in NestJS, React
+- 🌱 I’m currently learning FullStack Web Programming
+- 💞️ I’m looking to working on NodeJS Stack Company
 - 📫 How to reach me "ajtwoddl9194@gmail.com" or "010-4664-9194"
 
 <!---
