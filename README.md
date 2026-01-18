@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @airflowboy
-- 👀 I’m interested in Nextjs, Supabase
-- 🌱 I’m currently learning FullStack Web Programming
+- 👀 I’m interested in FullStack, DevOps, AI
+- 🌱 I’m currently learning FullStack Web Programming and DevOps Concept/Skills
 - 💞️ I’m working on Startup with FullStack tech
 - 📫 How to reach me "ajtwoddl9194@gmail.com" or "010-4664-9194"
 
