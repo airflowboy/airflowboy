@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @airflowboy
-- 👀 I’m interested in Backend, DevOps, AI
-- 🌱 I’m currently learning use multi agents in my own program
-- 💞️ I’m working on Startup with FullStack tech
+- 👀 I’m interested in DevOps, SRE, AI
+- 🌱 I’m currently learning K8S, Ansible, Terraform and etc...
+- 💞️ I’m working on Startup with FullStack/DevOps tech
 - 📫 How to reach me "ajtwoddl9194@gmail.com" or "010-4664-9194"
 
 <!---
