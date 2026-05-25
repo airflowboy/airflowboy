@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @airflowboy
-- 👀 I’m interested in DevOps, SRE, AI
-- 🌱 I’m currently learning K8S, Ansible, Terraform and etc...
-- 💞️ I’m working on Startup with FullStack/DevOps tech
-- 📫 How to reach me "ajtwoddl9194@gmail.com" or "010-4664-9194"
+안녕하세요. 제 깃헙 저장소에 오신것을 환영합니다. 
 
-<!---
-airflowboy/airflowboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+저는 DevOps/SRE 기술들과 AI에 대해 관심이 많고 이를 적극적으로 활용하여 즐겁게 개발하고 있는 사람입니다.
+
+그렇지만 그와 더불어 AI가 모든것을 만들어주는 환경에 대해 항상 경계하고 있는 사람이기도 합니다.
+
+제가 pin으로 설정해 놓은 저장소들은 제가 가장 열심히 작업을 하고 학습을 하고 있는 곳입니다.
+
+부족한 저의 저장소를 찾아주셔서 다시 한번 감사합니다. 
+
+박건태 / 01046649194 / ajtwoddl9194@gmail.com
